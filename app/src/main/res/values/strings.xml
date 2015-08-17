@@ -12,10 +12,10 @@
     <!-- -->
 
     <!--Education Info-->
-    <string name="degreename">Bachelor of Science in Computer Science</string>
+    <string name="degreename">B.S. in Computer Science</string>
     <string name="college">University of South Florida</string>
     <string name="graddate">Dec 2015</string>
-    <string name="gpa">3.32</string>
+    <string name="gpa">3.32/4.0</string>
     <!-- -->
 
     <!--Work Experience-->
